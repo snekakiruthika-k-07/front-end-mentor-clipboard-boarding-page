@@ -1,0 +1,193 @@
+.header{
+    border-style: solid;
+    border-color: rgb(0, 238, 238);
+    width:20px;
+    color:rgb(0, 255, 255);
+    border-radius: 35px;
+    height:20px;
+    padding:10px;
+    border-width: 5px;
+}
+.container{
+    display:inline-block;
+    margin-left: -1500px;
+}
+.content1 h2{
+    display:inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content2 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header p{
+    position:relative;
+    bottom:40px;
+    right:1px;
+    font-size: 30px;
+}
+.ios ,.mac{
+    border-radius: 20px;
+    padding:10px 20px 10px 20px;
+    background-color: rgb(2, 139, 55);
+    border-color: rgb(2, 139, 55);
+    color:white;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mac{
+    background-color: rgb(90, 90, 248);
+    margin-left: 5px;
+    border-color:rgb(90, 90, 248) ;
+}
+.content2{
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content3{
+    display:flex;
+    flex-direction: row;
+    margin-left: 2050px;
+}
+.block1{
+    display:block;
+    height:800px;
+    width:800px;
+    margin-left:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:relative;
+    top:100px;
+    left:20px;
+}
+.block2{
+    height:800px;
+    width:800px;
+    margin-left:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:relative;
+    top:230px;
+    right:830px;
+}
+.block3{
+     height:800px;
+    width:800px;
+    margin-left:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:relative;
+    top:350px;
+    right:1680px;
+}
+.image1{
+    height:550px;
+    width:550px;
+}
+.content4{
+   position:relative;
+   bottom:200px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image2{
+    margin-left: 2300px;
+    position:relative;
+    bottom:160px;
+    height:300px;
+    width:650px;
+}
+.content6{
+    position:relative;
+    bottom:130px;
+    left:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content7{
+    display:inline-block;
+    margin-left: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line1{
+    position:relative;
+    left:2100px;
+    bottom:100px;
+}
+.line2{
+    position:relative;
+    left:2450px;
+    bottom:225px;
+}
+.line3{
+    position:relative;
+    left:2820px;
+    bottom:330px;
+}
+.image2b ,.image3,.image4,.image5 ,.image6{
+    height:150px;
+    width:150px;
+    margin-left: 80px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+}
+.content8{
+   position:relative;
+   bottom:240px;
+   margin-left: 50px;
+}
+.content9{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom:150px;
+}
+#footer{
+    margin-left: 2150px;
+    position:relative;
+    top:25px;
+}
+.item1{
+    position:relative;
+    left:2300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom:60px;
+}
+.item2{
+    position:relative;
+    left:2300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom:30px;
+}
+.item3{
+    position:relative;
+    left:2550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom:135px;
+}
+.item4{
+    position:relative;
+    left:2550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom:110px;
+}
+.item5{
+    position:relative;
+    left:2850px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom:210px;
+}
+.image7,.image8,.image9{
+    height:50px;
+    width:50px;
+    border-radius: 50px;
+    margin-left: 3200px;
+    position:relative;
+    bottom:280px;
+
+}
+.content10{
+    height:200px;
+    width: 1250px;
+    position:relative;
+    left:2000px;
+    background-color: rgb(221, 218, 218);
+    bottom:100px;
+}
+.subheadings{
+    position:relative;
+    right:2100px;
+    top:50px;
+}
